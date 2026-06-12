@@ -27,7 +27,7 @@ No unnecessary abstractions. No build steps if I can avoid them.
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vonbraunz&show_icons=true&hide_border=true&theme=dark&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vonbraunz&layout=compact&hide_border=true&theme=dark)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vonbraunz&hide_border=true&theme=dark)
 
