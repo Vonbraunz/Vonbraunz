@@ -1,6 +1,6 @@
 # Hey, I'm Vonbraunz 👋
 
-I'm a self-taught developer working across game modding, industrial tooling, and legacy Java. I port, extend, and build things that fill gaps — usually because something didn't exist or didn't work. I've ported Single Player Tarkov mods from TypeScript to C#, built real-time fleet telemetry dashboards for industrial field operations, backported modern Minecraft mod concepts down to 1.7.10 for GT: New Horizons, and built a data visualization tool for oilfield job data that was acquired and taken internal by a corporate buyer.
+I'm a self-taught developer working across game modding, industrial tooling, and legacy Java. I port, extend, and build things that fill gaps, usually because something didn't exist or didn't work. I've ported Single Player Tarkov mods from TypeScript to C#, built real-time fleet telemetry dashboards for industrial field operations, backported modern Minecraft mod concepts down to 1.7.10 for GT: New Horizons, and built a data visualization tool for oilfield job data that was acquired and taken internal by a corporate buyer.
 
 ---
 
@@ -19,7 +19,7 @@ I'm a self-taught developer working across game modding, industrial tooling, and
 ## How I Work
 
 I pick up mods and tools that are broken or incomplete and make them usable.  
-Iterative — run it, read the error, fix it, repeat.  
+Iterative, run it, read the error, fix it, repeat.  
 No unnecessary abstractions. No build steps if I can avoid them.
 
 ---
